@@ -1,0 +1,1 @@
+System.register("../src/teste/app",[],function(){"use strict";var a=function(a,b){return a+b},b=a;return{get default(){return b}}}),System.get("../src/teste/app");
